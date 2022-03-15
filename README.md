@@ -1,1 +1,1 @@
-# Face-Tracking-with-OpenCVPython
+# Face Tracking with OpenCV-Python
